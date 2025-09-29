@@ -5,7 +5,7 @@ Bu proje yalnızca **arayüz (frontend)** kısmını içermektedir.
 
 ---
 
-## 🚀 Özellikler
+## Özellikler
 
 - **Kullanıcı İşlevleri**
   - Quiz çözme
@@ -22,7 +22,7 @@ Bu proje yalnızca **arayüz (frontend)** kısmını içermektedir.
 
 ---
 
-## 📸 Ekran Görüntüleri
+## Ekran Görüntüleri
 
 ### Giriş
 ![Giriş](gorsel/Ekran%20Görüntüsü%20(185).png)
@@ -35,7 +35,7 @@ Bu proje yalnızca **arayüz (frontend)** kısmını içermektedir.
 
 ---
 
-## 🔧 Kurulum (Frontend)
+## Kurulum (Frontend)
 
 1. **Depoyu klonlayın**
    ```bash
