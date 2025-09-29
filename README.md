@@ -25,13 +25,13 @@ Bu proje yalnızca **arayüz (frontend)** kısmını içermektedir.
 ## Ekran Görüntüleri
 
 ### Giriş
-![Giriş](gorsel/Ekran%20Görüntüsü%20(185).png)
+![Giriş](gorsel/giris.png)
 
 ### Quizler
-![Quizler](gorsel/Ekran%20Görüntüsü%20(187).png)
+![Quizler](gorsel/quizzes.png)
 
 ### Eğitmen sayfası
-![Eğitmen sayfası](gorsel/Ekran%20Görüntüsü%20(188).png)
+![Eğitmen sayfası](gorsel/egitmen.png)
 
 ---
 
